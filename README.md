@@ -1,6 +1,6 @@
 # Not Sepeti (Not Defteri) 🚀🌌
 
-Flutter ile geliştirilmiş, SQLite yerel veritabanı altyapısına sahip, yenilikçi ve büyüleyici bir **uzay temalı** not alma uygulaması. Klasik not defteri mantığını, `CustomPaint` ve gelişmiş Flutter animasyonları kullanarak derinlik hissi veren dinamik bir görsel şölenle birleştirir.
+Dart/Flutter ile geliştirilmiş, SQLite yerel veritabanı altyapısına sahip, yenilikçi ve büyüleyici bir **uzay temalı** not alma uygulaması. Klasik not defteri mantığını, `CustomPaint` ve gelişmiş Flutter animasyonları kullanarak derinlik hissi veren dinamik bir görsel şölenle birleştirir.
 
 ## 📸 Ekran Görüntüleri
 
